@@ -1,0 +1,16 @@
+.App {
+    color: rgb(7, 69, 161);
+    font-size: 25px;
+}
+
+.input {
+    color: rgb(216, 8, 206);
+    border: 0 0 3px 0;
+    border-color: rgb(6, 131, 54);
+    font-size: 20px;
+}
+
+.validation {
+    color: rgb(6, 151, 84);
+    font-size: 20px;
+}
